@@ -1,16 +1,16 @@
 # [Ikea Level Design](https://www.youtube.com/watch?v=PFMHNsYjHXA&list=PLzhOA58UvV9OmnW14E2tdXG65d9mRcDBA)
 
-This is a level design project assigned by my professor. My class and I were tasked to make a level biased off the idea where stores create paths to keep customers in.
+This is a level design project assigned by my professor. My class and I were tasked to make a level based off the idea where stores create paths to keep customers in. in this case it was Houston's Ikea but it could of been any other stores like Wal-mart or Costco.
 
 ## Requirements
 <br>
 Using Unreal Engine 4, you are to build a level Whitebox (or Prototype/Blocking Pass) based on the map of Houston's IKEA. The building's layout, which is two floors, is provided below. You only need to build one floor.
 
-You'll need to use UE4's brush editing tools to build walls and floors matching the layout as closely as possible. In a future project, you'll use this as a starting point to decorate a unique map and make it your own. Be sure that you're using UE4's BSP systems (editable geometry) rather than static meshes (static meshes cannot be easily adjusted like BSPs can). Refer to the "Blocktober" link below for more information.
+You'll need to use UE4's brush editing tools to build walls and floors matching the layout as closely as possible. In a future project, you'll use this as a starting point to decorate a unique map and make it your own. Be sure that you're using UE4's BSP systems (editable geometry) rather than static meshes (static meshes cannot be easily adjusted like BSPs can). Refer to the "[Blocktober](https://www.worldofleveldesign.com/categories/level_design_tutorials/guide-to-blocktober.php)" link below for more information.
 
 The goal here is to create a simple map that the player can walk around in. More than anything else at this point you should be focused on getting the scale right; make sure the player can fit through doorways, and doesn't have to jump up a set of stairs.
 
-Once you have finished, you can upload just the .umap file of your level. Make sure that it contains your name (something like "BrandonOliveIKEA.umap"), and does not contain any spaces or special characters.
+Once you have finished, you can upload just the ".umap" file of your level. Make sure that it contains your name (something like "BrandonOliveIKEA.umap"), and does not contain any spaces or special characters.
 
 ## Houston Ikea Map
 <br>
