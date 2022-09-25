@@ -26,11 +26,12 @@ We used Unreal's tools to make the white boxes.
 [![Ikea-Whitebox](http://img.youtube.com/vi/12ucy3vW3tk/mqdefault.jpg)](https://www.youtube.com/watch?v=12ucy3vW3tk)
 
 <br>
-Next time in hindsight, I'll do an initial Whitebox with no proportions and then after the layout feels nice I'll create white boxes where the proportions are similar to the assets and create a proportional whitebox level.
+Next time in hindsight, I'll do an initial Whitebox with no proportions and then after when the layout feels nice I'll create white boxes where the proportions are similar to the assets and create a proportional whitebox level.
 
 # Final Stage
 This is the final stage. At this stage, we add the final assets to see how the level turns out visually and how it feels. 
 In my case, I came up with a horror theme where the level is a flooded underground level. For this level I was also tasked to create a blueprint/script that affected the level. 
+
 I created two scripts, one made a torch fall off the stairs when the player walked near the stairs and the second one is where the player gets flipped upside down and gravity gets reversed making the level different than the rest. 
 <br><br>
 
